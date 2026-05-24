@@ -23,7 +23,6 @@ ul, li {
 }
 
 :root{
-
     /* Cores principais */
     --cor1: #4E5F3A;
     --cor2: #667C4A;
@@ -40,7 +39,7 @@ ul, li {
 
 
     /*Fontes do Site */
-    --fontPrincipa1l: "Cinzel", serif;
+    --fontPrincipal1: "Cinzel", serif;
     --fontTextos1: "Poppins", sans-serif;
     /* Outra combinação de Fontes */
     --fontPrincipal2: "Marcellus", serif;
