@@ -43,4 +43,5 @@
     background: var(--cor2);
     color: #fff;
     text-transform: uppercase;
+    cursor: pointer;
 }
