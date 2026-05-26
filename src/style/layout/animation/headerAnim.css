@@ -1,0 +1,18 @@
+/* Animation Header */
+
+nav a{
+    position: relative;
+}
+nav a::after{
+    content: " ";
+    width: 0%;
+    height: 2px;
+    background-color: var(--cor5);
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    transition: 0.5s ease-in-out;
+}
+nav a:hover::after{
+    width: 100%;
+}
